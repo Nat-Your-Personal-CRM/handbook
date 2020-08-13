@@ -26,7 +26,10 @@ We want to:
 - Scheduling calls can be a mess. Please have a calendly.com link ready to share with the team
 - If you can't make it to a meeting, say it and suggest a new time
 
+### Own what you do
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTI0ODQ0MiwxMTE1MTM0NTE1LDg1Mj
-E5MjkzNF19
+eyJoaXN0b3J5IjpbNzY3MDgxNTI4LDExMTUxMzQ1MTUsODUyMT
+kyOTM0XX0=
 -->
