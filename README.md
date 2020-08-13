@@ -15,6 +15,10 @@ We want to:
 - Have happy customers that pay for our software.
 
 ## Share allocation
+Company ownership and share allocation is a very complicated topic. That's why we've chosen to simplify is as much as possible. 
+### Rules
+- If you're getting paid money, you don't get any shares. 
+- 
 
 ## Expectactions for all team members
 ### Communicate a lot
@@ -30,9 +34,9 @@ We want to:
 - 
 
 ### Commitment
-- After the 3 month trial period, we expect you to reduce your current workload to 80% so as to be able to commit enough time to Nat. If this generates financial stress for you, we'll discuss a compensation to make it work
+- After the 3 month trial period, we expect you to reduce your current workload to 80% so as to be able to commit enough time to Nat. If this generates financial stress for you, we'll discuss a compensation to make it work. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTE2MzA2OSwxMTE1MTM0NTE1LDg1Mj
-E5MjkzNF19
+eyJoaXN0b3J5IjpbMzY0NDE4NTY0LDExMTUxMzQ1MTUsODUyMT
+kyOTM0XX0=
 -->
