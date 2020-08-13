@@ -26,7 +26,9 @@ Company ownership and share allocation is a very complicated topic. That's why w
 ### How it works
 Our system means that every month, we're creating new shares, diluting the existing pool of shares. This generates a healthy system where the people who've been contributing the longest own the most shares. 
 
-### What are the 
+### What are the shares for
+Shares entitle you to dividends once we get profitable + decision power inside the company. 
+
 
 ## Expectactions for all team members
 ### Communicate a lot
@@ -45,6 +47,6 @@ Our system means that every month, we're creating new shares, diluting the exist
 - After the 3 month trial period, we expect you to reduce your current workload to 80% so as to be able to commit enough time to Nat. If this generates financial stress for you, we'll discuss a compensation to make it work. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDU0MDA4MiwxMTE1MTM0NTE1LDg1Mj
-E5MjkzNF19
+eyJoaXN0b3J5IjpbLTIxMDU0NTU3MzEsMTExNTEzNDUxNSw4NT
+IxOTI5MzRdfQ==
 -->
