@@ -19,8 +19,9 @@ We want to:
 ## Expectactions for all team members
 ### Communicate a lot
 - Visit Slack once a day and let us know when you'll be off for more than a day.
-- If yo
+- Keep the Trello board up to date
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA0NTU5MSw4NTIxOTI5MzRdfQ==
+eyJoaXN0b3J5IjpbMTExNTEzNDUxNSw4NTIxOTI5MzRdfQ==
 -->
