@@ -14,7 +14,7 @@ We don't want to:
 We want to: 
 - Have happy customers that pay for our software.
 
-
+## Share allocation
 
 ## Expectactions for all team members
 ### Communicate a lot
@@ -29,7 +29,10 @@ We want to:
 ### Own what you do
 - 
 
+### Commitment
+- After the 3 month trial period, we expect you to reduce your current workload to 80% so as to be able to commit enough time to Nat. If this generates financial stress for you, we'll discuss a compensation to make it work
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3MDgxNTI4LDExMTUxMzQ1MTUsODUyMT
-kyOTM0XX0=
+eyJoaXN0b3J5IjpbLTkzMTE2MzA2OSwxMTE1MTM0NTE1LDg1Mj
+E5MjkzNF19
 -->
