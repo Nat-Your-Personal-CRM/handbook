@@ -20,8 +20,13 @@ We want to:
 ### Communicate a lot
 - Visit Slack once a day and let us know when you'll be off for more than a day.
 - Keep the Trello board up to date
-- 
+
+
+### Make things easy for others
+- Scheduling calls can be a mess. Please have a calendly.com link ready to share with the team
+- If you can't make it to a meeting, say it and suggest a new time
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTEzNDUxNSw4NTIxOTI5MzRdfQ==
+eyJoaXN0b3J5IjpbLTczNTI0ODQ0MiwxMTE1MTM0NTE1LDg1Mj
+E5MjkzNF19
 -->
