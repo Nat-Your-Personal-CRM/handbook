@@ -21,9 +21,12 @@ Company ownership and share allocation is a very complicated topic. That's why w
 - If you're getting paid money, you don't get any shares. 
 - Every month you're working for Nat, you'll get 15 shares. 
 - If you leave after less than 3 months, you don't get any shares. 
+- You can claim the shares the first month of every year or when you leave the company. 
 
 ### How it works
-Our system means that every mon
+Our system means that every month, we're creating new shares, diluting the existing pool of shares. This generates a healthy system where the people who've been contributing the longest own the most shares. 
+
+### What are the 
 
 ## Expectactions for all team members
 ### Communicate a lot
@@ -42,6 +45,6 @@ Our system means that every mon
 - After the 3 month trial period, we expect you to reduce your current workload to 80% so as to be able to commit enough time to Nat. If this generates financial stress for you, we'll discuss a compensation to make it work. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3OTEyMzI3LDExMTUxMzQ1MTUsODUyMT
-kyOTM0XX0=
+eyJoaXN0b3J5IjpbMTIyMDU0MDA4MiwxMTE1MTM0NTE1LDg1Mj
+E5MjkzNF19
 -->
