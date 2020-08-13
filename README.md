@@ -17,7 +17,10 @@ We want to:
 
 
 ## Expectactions for all team members
-As stated in the introduction, because we're all working part-time, we can't expect too much for you
+### Communicate a lot
+- Visit Slack once a day and let us know when you'll be off for more than a day.
+- If yo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Mjg2NDE3LDg1MjE5MjkzNF19
+eyJoaXN0b3J5IjpbLTE1NjA0NTU5MSw4NTIxOTI5MzRdfQ==
 -->
