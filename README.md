@@ -13,7 +13,8 @@ We don't want to:
 
 We want to: 
 - Have happy customers that pay for our software.
-- 
+
+@TODO
 
 ## Share allocation
 Company ownership and share allocation is a very complicated topic. That's why we've chosen to simplify is as much as possible. 
@@ -42,14 +43,16 @@ Shares entitle you to dividends once we get profitable + decision power inside t
 - If you can't make it to a meeting, say it and suggest a new time
 
 ### Own what you do
-- 
+
+@TODO
 
 ## Performance Management
 ### KPIs
+@TODO
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDU2ODAxNCwtMjEwNTQ1NTczMSwxMT
-E1MTM0NTE1LDg1MjE5MjkzNF19
+eyJoaXN0b3J5IjpbLTEwNjU5NjIwOTgsLTIxMDU0NTU3MzEsMT
+ExNTEzNDUxNSw4NTIxOTI5MzRdfQ==
 -->
