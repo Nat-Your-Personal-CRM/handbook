@@ -13,6 +13,7 @@ We don't want to:
 
 We want to: 
 - Have happy customers that pay for our software.
+- 
 
 ## Share allocation
 Company ownership and share allocation is a very complicated topic. That's why we've chosen to simplify is as much as possible. 
@@ -30,7 +31,7 @@ Our system means that every month, we're creating new shares, diluting the exist
 Shares entitle you to dividends once we get profitable + decision power inside the company. 
 
 
-## Expectactions for all team members
+## Expectations for all team members
 ### Communicate a lot
 - Visit Slack once a day and let us know when you'll be off for more than a day.
 - Keep the Trello board up to date
@@ -43,10 +44,12 @@ Shares entitle you to dividends once we get profitable + decision power inside t
 ### Own what you do
 - 
 
-### Commitment
-- After the 3 month trial period, we expect you to reduce your current workload to 80% so as to be able to commit enough time to Nat. If this generates financial stress for you, we'll discuss a compensation to make it work. 
+## Performance Management
+### KPIs
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDU0NTU3MzEsMTExNTEzNDUxNSw4NT
-IxOTI5MzRdfQ==
+eyJoaXN0b3J5IjpbLTMxNDU2ODAxNCwtMjEwNTQ1NTczMSwxMT
+E1MTM0NTE1LDg1MjE5MjkzNF19
 -->
