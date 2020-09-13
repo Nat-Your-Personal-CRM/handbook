@@ -3,7 +3,8 @@
 - It's okay not to have done anything. Just give an update
 - loom.io
 
-
+# Decision taking
+share based
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3ODY0MzQ4LDYyMTE5MzkyMF19
+eyJoaXN0b3J5IjpbOTM1OTgxNjA3LDYyMTE5MzkyMF19
 -->
